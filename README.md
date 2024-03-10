@@ -1,2 +1,2 @@
-# dnas
-dnas
+# DNA1
+DNA1
